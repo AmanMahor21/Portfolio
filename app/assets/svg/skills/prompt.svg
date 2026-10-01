@@ -1,0 +1,9 @@
+<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<rect x="10" y="8" width="30" height="30" rx="4" ry="4" fill="#FF6BD6"/>
+<text x="25" y="29" text-anchor="middle" font-family="Consolas, monospace" font-size="15" font-weight="bold" fill="#FFFFFF">{ }</text>
+</g>
+<defs>
+<clipPath id="clip0"><rect width="50" height="50" fill="white"/></clipPath>
+</defs>
+</svg>

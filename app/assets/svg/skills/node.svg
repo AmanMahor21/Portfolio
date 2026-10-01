@@ -1,0 +1,12 @@
+<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<path d="M25 4 L41.2 13.4 L41.2 36.6 L25 46 L8.8 36.6 L8.8 13.4 Z" fill="#5FA04A"/>
+<path d="M17.5 25 L28.5 25 L28.5 22 L17.5 22 Z" fill="#333333"/>
+<text x="25" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#333333">JS</text>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="50" height="50" fill="white"/>
+</clipPath>
+</defs>
+</svg>

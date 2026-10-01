@@ -1,0 +1,10 @@
+<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<rect x="10" y="8" width="30" height="30" rx="4" ry="4" fill="#FF9F00"/>
+<rect x="13" y="11" width="10" height="24" fill="#FFFFFF"/>
+<text x="25" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#7A5A00">API</text>
+</g>
+<defs>
+<clipPath id="clip0"><rect width="50" height="50" fill="white"/></clipPath>
+</defs>
+</svg>
